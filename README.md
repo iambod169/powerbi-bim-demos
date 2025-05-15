@@ -1,7 +1,9 @@
 # Analyse de maquettes BIM avec Power BI par BOD
 
 <div align="center">
-  <a href="assets/Power BI - BIM application - BOD.png" type="image/png">
+   <a href="assets/Power BI - BIM application - BOD.png">
+    <img src="assets/Power BI - BIM application - BOD.png" alt="Power BI BIM Dashboard">
+  </a>
 </div>
 
 <div align="center">
