@@ -49,7 +49,7 @@ Cette présentation technique vise à faciliter la prise en main de Power BI pou
 - Fournir des composants interactifs pour l'apprentissage
 
 <div align="center">
-  <a href="https://VOTRE-USERNAME.github.io/powerbi-bim-demos/">
+  <a href="https://iambod169.github.io/powerbi-bim-demos/">
     <img src="https://via.placeholder.com/500x300/0078D7/FFFFFF/?text=Démonstration+Interactive" alt="Démo">
   </a>
 </div>
@@ -77,7 +77,7 @@ Le processus d'analyse des maquettes BIM avec Power BI suit un workflow en 6 ét
    - Configuration des filtres croisés
 
 <div align="center">
-  <a href="https://VOTRE-USERNAME.github.io/powerbi-bim-demos/workflow">
+  <a href="https://iambod169.github.io/powerbi-bim-demos/workflow">
     <img src="https://via.placeholder.com/600x300/0078D7/FFFFFF/?text=Explorer+le+Workflow+Interactif" alt="Workflow">
   </a>
 </div>
@@ -97,7 +97,7 @@ Notre dashboard d'exemple permet d'analyser en détail une maquette BIM et d'en 
 - **Distribution spatiale** des éléments par étage
 
 <div align="center">
-  <a href="https://VOTRE-USERNAME.github.io/powerbi-bim-demos/dashboard">
+  <a href="https://iambod169.github.io/powerbi-bim-demos/dashboard">
     <img src="https://via.placeholder.com/600x300/0078D7/FFFFFF/?text=Explorer+le+Dashboard+Interactif" alt="Dashboard">
   </a>
 </div>
@@ -118,7 +118,7 @@ Pour les maquettes au format Revit (.rvt), nous utilisons le connecteur Data Exc
 Pour les maquettes au format IFC, nous passons par la plateforme Autodesk Construction Cloud qui permet de transformer les données IFC en format exploitable par Power BI.
 
 <div align="center">
-  <a href="https://VOTRE-USERNAME.github.io/powerbi-bim-demos/import">
+  <a href="https://iambod169.github.io/powerbi-bim-demos/import">
     <img src="https://via.placeholder.com/600x300/0078D7/FFFFFF/?text=Explorer+le+Guide+d'Importation" alt="Import">
   </a>
 </div>
@@ -140,4 +140,4 @@ Pour les maquettes au format IFC, nous passons par la plateforme Autodesk Constr
 
 1. Clonez ce dépôt
    ```bash
-   git clone https://github.com/VOTRE-USERNAME/powerbi-bim-demos.git
+   git clone https://github.com/iambod169/powerbi-bim-demos.git
