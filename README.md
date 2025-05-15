@@ -1,4 +1,4 @@
-# Analyse de maquettes BIM avec Power BI
+# Analyse de maquettes BIM avec Power BI par BOD
 
 <div align="center">
   <a href="assets/Power BI - BIM application - BOD.png" type="image/png">
