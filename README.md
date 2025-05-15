@@ -1,7 +1,7 @@
 # Analyse de maquettes BIM avec Power BI
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x150/0078D7/FFFFFF/?text=Analyse+de+maquettes+BIM+avec+Power+BI" alt="Bannière du projet">
+  <href="assets/Power BI - BIM application - BOD.png">
 </div>
 
 <div align="center">
