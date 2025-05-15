@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/powerbi-bim-demos/static/css/main.a98a8663.css",
-    "main.js": "/powerbi-bim-demos/static/js/main.3a60b943.js",
+    "main.js": "/powerbi-bim-demos/static/js/main.4cc9efd1.js",
     "static/js/453.16f2d8ef.chunk.js": "/powerbi-bim-demos/static/js/453.16f2d8ef.chunk.js",
     "index.html": "/powerbi-bim-demos/index.html",
     "main.a98a8663.css.map": "/powerbi-bim-demos/static/css/main.a98a8663.css.map",
-    "main.3a60b943.js.map": "/powerbi-bim-demos/static/js/main.3a60b943.js.map",
+    "main.4cc9efd1.js.map": "/powerbi-bim-demos/static/js/main.4cc9efd1.js.map",
     "453.16f2d8ef.chunk.js.map": "/powerbi-bim-demos/static/js/453.16f2d8ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a98a8663.css",
-    "static/js/main.3a60b943.js"
+    "static/js/main.4cc9efd1.js"
   ]
 }
