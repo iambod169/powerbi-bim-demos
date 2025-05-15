@@ -88,6 +88,9 @@ Le processus d'analyse des maquettes BIM avec Power BI suit un workflow en 6 ét
 
 <a name="dashboard"></a>
 ## 📊 Dashboard exemple
+ <a href="assets/Power BI - BIM application 2 - BOD.png">
+    <img src="assets/Power BI - BIM application 2 - BOD.png" alt="Power BI BIM Dashboard">
+  </a>
 
 Notre dashboard d'exemple permet d'analyser en détail une maquette BIM et d'en extraire des insights importants pour le contrôle qualité.
 
