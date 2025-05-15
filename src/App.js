@@ -11,7 +11,7 @@ function App() {
         <header className="bg-blue-600 text-white p-4 shadow-md">
           <div className="container mx-auto">
             <h1 className="text-3xl font-bold">Analyse de maquettes BIM avec Power BI</h1>
-            <p className="text-blue-100">Démos interactives pour votre présentation</p>
+            <p className="text-blue-100">Démos interactives pour ma présentation pour JUNO - 16.05.2025</p>
           </div>
         </header>
         
@@ -45,7 +45,7 @@ function App() {
         
         <footer className="bg-gray-800 text-white p-4 mt-8">
           <div className="container mx-auto text-center">
-            <p>&copy; {new Date().getFullYear()} - Votre Nom - Démos pour présentation PowerBI BIM</p>
+            <p>&copy; {new Date().getFullYear()} - Balogun Ola-Davies - Démos pour présentation PowerBI BIM</p>
           </div>
         </footer>
       </div>
