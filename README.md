@@ -1,7 +1,7 @@
 # Analyse de maquettes BIM avec Power BI
 
 <div align="center">
-  <href="assets/Power BI - BIM application - BOD.png">
+  <a href="assets/Power BI - BIM application - BOD.png" type="image/png">
 </div>
 
 <div align="center">
